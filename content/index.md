@@ -1,7 +1,5 @@
 ---
-{"publish":true,"title":"Home","created":"2025-09-11T20:50:41.000-06:00","modified":"2025-09-11T20:50:41.000-06:00","cssclasses":""}
+{"publish":true,"title":"Home","created":"2025-10-24T04:53:11.023-06:00","modified":"2026-02-03T21:50:15.349-06:00","cssclasses":""}
 ---
 
-Hey you, [[Hello World\|welcome back]]!
-What is [[Haiku\|this]] do you wonder?
-[[Digital Gardening\|Digital Garden]].
+:)
